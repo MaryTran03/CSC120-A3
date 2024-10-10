@@ -38,11 +38,11 @@ YES 1 pt: Prints transcript when terminating
 
 ## Kudos:
 
-_____ (Kudos!) Handles mirror words with punctuation
+Kudos! (Kudos!) Handles mirror words with punctuation
 
-_____ (Kudos!) Generates output with correct punctuation & capitalization
+Kudos! (Kudos!) Generates output with correct punctuation & capitalization
 
-_____ (Kudos!) Handles you --> me/I dilemma
+Kudos! (Kudos!) Handles you --> me/I dilemma
 
 
 
