@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * Create a conversation class
- * @param none
- * @return none
  */
 
 // Testing
